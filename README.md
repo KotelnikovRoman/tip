@@ -1,3 +1,3 @@
 # tip
 # программа чаевые
-# version 1.0
+# beta version 1.6
